@@ -48,7 +48,7 @@
     transition: .3s;
 }
 
-.header__content:hover>.header__content-title {
+.header__content-title:hover {
     color: #323232;
 }
 
