@@ -27,12 +27,12 @@
     color: #FFFFFF;
     padding: 23px;
     display: block;
+    transition: .3s;
 }
 
 .nav__list-link:hover {
     background: #FFFFFF;
     color: #D47300;
-    transition: .3s;
 }
 
 .header__content {
