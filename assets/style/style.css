@@ -50,6 +50,9 @@
 
 .header__content:hover {
     background: url('../images/nav-logo.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
 }
 
 .header__content:hover>.header__content-title {
